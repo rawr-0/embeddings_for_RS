@@ -1,0 +1,5 @@
+embeddings:
+  links: ml-latest-small/links.csv
+  movies: ml-latest-small/movies.csv
+  ratings: ml-latest-small/ratings.csv
+  tags: ml-latest-small/ratings.csv
